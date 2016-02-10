@@ -50,3 +50,17 @@ bank=# \d bank_branches
  state     | character varying(26)  | 
  bank_name | character varying(49)  | 
 ```
+
+# Usage
+
+```
+psql <database> < indian_banks.sql
+CREATE TABLE
+CREATE TABLE
+CREATE VIEW
+COPY 170
+COPY 127857
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+```
